@@ -1,0 +1,114 @@
+Characteristic,Total,Uninsured Number,Uninsured Number MOE,Uninsured Percent,Uninsured Percent MOE
+Total,"325,638","27,957",612.0,8.6,0.2
+Family Status,,,,,
+In families,"261,847","21,255",521.0,8.1,0.2
+..Householder,"83,918","6,414",184.0,7.6,0.2
+..Related children under 18,"70,976","3,861",210.0,5.4,0.3
+....Related children under 6,"22,191","1,178",110.0,5.3,0.5
+In unrelated subfamilies,"1,017",137,43.0,13.5,3.8
+Unrelated individuals,"62,774","6,565",270.0,10.5,0.4
+Race3 and Hispanic Origin,,,,,
+White,"247,763","20,631",512.0,8.3,0.2
+"..White, not Hispanic","194,230","10,419",386.0,5.4,0.2
+Black,"43,427","4,523",244.0,10.4,0.6
+Asian,"20,125","1,180",115.0,5.9,0.6
+Hispanic (any race),"61,160","11,192",411.0,18.3,0.7
+Age,,,,,
+Under 65 years,"269,802","27,395",616.0,10.2,0.2
+..Under 19 years 4,"76,156","4,291",224.0,5.6,0.3
+....Under 3 years 5,"10,688",625,79.0,5.8,0.7
+....3 to 5 years,"11,800",577,67.0,4.9,0.6
+....6 to 11 years,"24,397","1,212",97.0,5.0,0.4
+....12 to 18 years,"29,271","1,878",138.0,6.4,0.5
+..19 to 64 years,"193,646","23,103",520.0,11.9,0.3
+....19 to 25 years 6,"29,269","4,210",188.0,14.4,0.6
+....26 to 34 years,"40,916","5,809",236.0,14.2,0.6
+....35 to 44 years,"42,004","5,224",229.0,12.4,0.5
+....45 to 64 years,"81,457","7,860",264.0,9.6,0.3
+65 and over,"55,836",563,69.0,1.0,0.1
+Sex,,,,,
+Male,"159,691","15,304",378.0,9.6,0.2
+Female,"165,947","12,653",331.0,7.6,0.2
+Nativity,,,,,
+Native-born,"280,839","19,290",506.0,6.9,0.2
+Foreign-born,"44,799","8,667",372.0,19.3,0.7
+..Naturalized citizen,"22,667","1,887",133.0,8.3,0.5
+..Not a citizen,"22,132","6,780",347.0,30.6,1.2
+Region,,,,,
+Northeast,"54,771","2,619",212.0,4.8,0.4
+Midwest,"67,436","4,189",259.0,6.2,0.4
+South,"125,396","14,741",445.0,11.8,0.4
+West,"78,035","6,409",270.0,8.2,0.3
+Household Income,,,,,
+"Less than $25,000","41,274","5,942",330.0,14.4,0.7
+"$25,000 to less than $50,000","55,310","6,945",350.0,12.6,0.6
+"$50,000 to less than $75,000","52,757","6,000",297.0,11.4,0.5
+"$75,000 to less than $100,000","42,567","3,394",237.0,8.0,0.5
+"$100,000 to less than $125,000","34,538","2,364",219.0,6.8,0.6
+"$125,000 to less than $150,000","24,031","1,220",167.0,5.1,0.7
+"$150,000 or more","75,160","2,094",181.0,2.8,0.2
+Work Experience,,,,,
+"....Total, 15 to 64 years old","210,421","24,236",544.0,11.5,0.3
+All workers,"154,502","17,041",433.0,11.0,0.3
+"..Worked full-time, year-round","99,588","8,410",277.0,8.4,0.3
+"..Less than full-time, year-round","54,913","8,631",302.0,15.7,0.5
+Did not work at least one week,"55,920","7,195",270.0,12.9,0.4
+Disability Status7,,,,,
+"....Total, 15 to 64 years old","210,421","24,236",544.0,11.5,0.3
+With disability,"15,134","1,356",118.0,9.0,0.7
+Without disability,"194,199","22,880",520.0,11.8,0.3
+Education,,,,,
+"....Total, 26 to 64 years old","164,377","18,893",465.0,11.5,0.3
+No high school diploma,"13,758","4,387",233.0,31.9,1.4
+High school graduate (includes equivalency),"43,850","7,066",257.0,16.1,0.6
+"Some college, no degree","23,885","2,559",157.0,10.7,0.6
+Associate's degree,"17,799","1,607",119.0,9.0,0.6
+Bachelor's degree,"41,047","2,441",149.0,5.9,0.4
+Graduate degree or higher,"24,039",833,88.0,3.5,0.4
+Firm Size,,,,,
+"....Total, workers 15 to 64 years old","154,502","17,041",433.0,11.0,0.3
+Less than 25 employees,"49,165","9,403",314.0,19.1,0.6
+25 to 99 employees,"10,433","1,275",104.0,12.2,0.9
+100 to 499 employees,"17,606","1,428",111.0,8.1,0.6
+500 to 999 employees,"7,961",558,73.0,7.0,0.9
+1000 or more employees,"69,336","4,376",195.0,6.3,0.3
+Income-to-Poverty Ratio,,,,,
+"....Total, poverty universe","325,156","27,926",612.0,8.6,0.2
+Below 100 percent of poverty,"37,156","6,396",353.0,17.2,0.8
+Below 138 percent of poverty,"56,337","9,076",383.0,16.1,0.6
+Between 100 and 199 percent of poverty,"52,336","6,985",355.0,13.3,0.6
+Between 200 and 299 percent of poverty,"50,389","5,997",274.0,11.9,0.5
+Between 300 and 399 percent of poverty,"41,655","3,691",251.0,8.9,0.6
+At or above 400 percent of poverty,"143,620","4,858",243.0,3.4,0.2
+Health Status,,,,,
+Excellent,"101,776","7,596",337.0,7.5,0.3
+Very Good,"105,451","8,449",344.0,8.0,0.3
+Good,"82,845","9,132",370.0,11.0,0.4
+Fair,"26,794","2,268",164.0,8.5,0.6
+Poor,"8,772",512,61.0,5.8,0.7
+Marital Status,,,,,
+"....Total, 19 to 64 years old","193,646","23,103",520.0,11.9,0.3
+Married,"98,821","8,425",318.0,8.5,0.3
+Widowed,"3,304",401,54.0,12.1,1.5
+Divorced,"18,486","2,431",145.0,13.2,0.7
+Separated,"3,738",756,78.0,20.2,1.9
+Never Married,"69,297","11,090",327.0,16.0,0.5
+Residence,,,,,
+Inside metropolitan statistical areas,"283,350","24,168",608.0,8.5,0.2
+..Inside principal cities,"105,778","10,850",486.0,10.3,0.4
+..Outside principal cities,"177,572","13,318",438.0,7.5,0.2
+Outside metropolitan statistical areas 8,"42,288","3,790",361.0,9.0,0.6
+Z Rounds to zero.,,,,,
+"1 A margin of error (MOE) is a measure of an estimate's variability. The larger the MOE in relation to the size of the estimate, the less reliable the estimate. This number, when added to and subtracted from the estimate, forms the 90 percent confidence interval.
+MOEs shown in this table are based on standard errors calculated using replicate weights.",,,,,
+"2 In the CPS ASEC, persons are considered to be uninsured if they were uninsured for the entire year.",,,,,
+"3 Federal surveys now give respondents the option of reporting more than one race. Therefore, two basic ways of defining a race group are possible. A group such as Asian may be defined as those who reported Asian and no other race (the race-alone
+or single-race concept) or as those who reported Asian regardless of whether they also reported another race (the race-alone-or-in-combination concept). This table shows data using the first approach (race alone). The use of the single-race population
+does not imply that it is the preferred method of presenting or analyzing data.  The Census Bureau uses a variety of approaches. Data for American Indians and Alaska Natives, Native Hawaiians and Other Pacific Islanders,
+and those reporting two or more races are not shown separately.",,,,,
+4 Children under the age of 19 are eligible for Medicaid/CHIP.,,,,,
+5 Children born after the reference year are not in universe.,,,,,
+6 This age group is of special interest because of the Affordable Care Act's dependent coverage provision. Individuals aged 19 to 25 years may be eligible to be a dependent on a parent's health insurance plan.,,,,,
+7 The sum of those with and without a disability does not equal the total because disability status is not defined for individuals in the U.S. armed forces.,,,,,
+"8 The ""Outside metropolitan statistical areas"" category includes both micropolitan statistical areas and territory outside of metropolitan and micropolitan statistical areas. For more information, see ""About Metropolitan and Micropolitan Statistical Areas"" at
+<www.census.gov/programs-surveys/metro-micro.html>.",,,,,
