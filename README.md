@@ -8,6 +8,8 @@ Cleaned up the dates and total sum cases and new cases per day data in order to 
 Due to the data being collected daily using the sum total was chosen as this gave us a running total to see the total cases reported and be able visualize it month over month.
 The daily data was compiled into month by month totals to better be able to compare against data against some other data sets that were not reported daily
 plots
+![image](https://user-images.githubusercontent.com/102863554/233518310-75d8ce06-ae95-4b83-87fb-77a9ee1108bf.png)
+![image](https://user-images.githubusercontent.com/102863554/233518449-a83497fe-0f99-4124-aa52-d97f950809b0.png)
 
 
 Unemployment rate
@@ -17,6 +19,8 @@ Summary:  In order to compare the pre and post impact COVID had to our National 
 As new monthly COVID Cases decrease, the Unemployment Rate is trending back to down towards stability. 
 
 Plots
+![image](https://user-images.githubusercontent.com/102863554/233518242-e6e69f0a-d49f-4f17-b957-db0d2cc238c2.png)
+![image](https://user-images.githubusercontent.com/102863554/233518266-1e196adf-4ed9-4f9d-8663-25617b21e459.png)
 
 
 
@@ -30,7 +34,11 @@ Summary We were looking at how COVID affected the enrollment amounts in private 
 
 What was found was that GDP was growing steadily prior to the start of the COVID outbreak in the U.S. and then took a little dip once it did hit, but then grew rapidly afterwards from the stimulus checks that were sent out to everyone. 
 
+![image](https://user-images.githubusercontent.com/102863554/233518103-2c588d95-f7bd-4960-b5d4-fbbaac0b26bb.png)
+
+
 We looked at a linear regression of COVID vs. GDP to see if there was a correlation, and there was a strong correlation with an r-value of .95. This could cause someone to believe that COVID caused a faster growing GDP, but the stimulus checks that were sent out to everyone to counteract the high unemployment and quarantine effects on the economy. 
+![image](https://user-images.githubusercontent.com/102863554/233518491-9c00a283-dc18-4112-9062-6689fe842b0d.png)
 
 Private Health Insurance--
 
