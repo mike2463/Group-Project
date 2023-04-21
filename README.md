@@ -44,8 +44,6 @@ After a rise in the number of private insured from 2018-2019, there was a decrea
 
 The graph above magnifies the trend in the total number of private insured over the time period, 2018-2021. <br />
 
-![image](https://github.com/mike2463/Group-Project/blob/main/Plots/year_total_private_compare.png)
-
 There was an overall decrease  in Total Insurance beginning in 2019. Total Insurance decreased as did Employment Based insurance. Increases were noted, however, in the Direct Purchase and Tricare categories. <br />
 
 ## Public Health Insurance <br />
